@@ -9,6 +9,16 @@ body
   background-color: #F2F2F2;
 }
 
+a
+{
+  color: #222;
+}
+
+a:hover
+{
+  color: #FFF;
+}
+
 .box
 {
     width: 500px;
@@ -17,13 +27,15 @@ body
     margin: 10px; 
 }
 
-h1
+h1, h2
 {
-  color: black;
+  text_decoration: black;
 }
 
-h2 {
-  color: black;
+h1 small 
+{
+  color: #333
+  font-size: .6em;
 }
 
 h2: hover
