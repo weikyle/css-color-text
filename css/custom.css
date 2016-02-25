@@ -4,15 +4,15 @@
 
 body
 {
-  background-color: #ebebe0;
+  background-color: #F2F2F2;
 }
 
 .box
 {
      width: 320px;
     padding: 10px;
-    border: 2px solid black;
-    margin: 0; 
+    border: 2px solid #BDBDBD;
+    margin: auto; 
 }
 
 h1
