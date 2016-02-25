@@ -6,7 +6,8 @@ body
 {
   background-color: #ebebe0;
 }
-div box
+
+.box
 {
      width: 320px;
     padding: 10px;
