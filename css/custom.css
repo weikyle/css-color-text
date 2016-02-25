@@ -2,6 +2,11 @@
   box-sizing: border-box; }
 /*insert custom css below*/
 
+body
+{
+  color: #ebebe0;
+}
+
 h1
 {
   color: red;
